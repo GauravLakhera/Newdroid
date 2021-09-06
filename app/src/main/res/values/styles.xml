@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+
+<resources>
+
+
+    <style parent="Theme.AppCompat.Light.NoActionBar" name="AppTheme">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="backgroundColor">#fcfcfc</item>
+
+
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+
+        <item name="windowActionBar">false</item>
+
+        <item name="windowNoTitle">true</item>
+
+
+
+
+    </style>
+
+
+    -<style name="AppTheme.blue">
+
+    <item name="windowActionBar">false</item>
+
+    <item name="windowNoTitle">true</item>
+
+    <item name="colorPrimary">#FF8013</item>
+
+    <item name="colorPrimaryDark">#FF8013</item>
+
+    <item name="colorAccent">#6EDAF4</item>
+
+</style>
+
+</resources>

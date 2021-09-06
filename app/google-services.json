@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051801743960",
+    "firebase_url": "https://short-news-8f6eb.firebaseio.com",
+    "project_id": "short-news-8f6eb",
+    "storage_bucket": "short-news-8f6eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051801743960:android:786264606821949fa0502d",
+        "android_client_info": {
+          "package_name": "com.Gaurav.shortnewsinhindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051801743960-9pv0mj8jj7fnommi3mfhh21pta1vo5q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Gaurav.shortnewsinhindi",
+            "certificate_hash": "1727d87b2ccb858c47604882b2f9c61ef3b69349"
+          }
+        },
+        {
+          "client_id": "1051801743960-j2tvtljabub6k234nbfutj4pq3t0hunl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jWieTmBBjHwhT3z0CVL5ScAfsZF8a9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051801743960-j2tvtljabub6k234nbfutj4pq3t0hunl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
